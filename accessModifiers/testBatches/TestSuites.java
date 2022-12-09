@@ -1,6 +1,8 @@
-package multilevelInheritance;
+package testBatches;
 
 import org.junit.Test;
+
+import testScenarios.TestCases;
 //              A[Child]             B[Immediate parent]              C[grand parent]
 public class TestSuites extends TestCases //,Rcomponents  // Multiple : A -> B,C [Immediate parents , Mother and Father]
 {
